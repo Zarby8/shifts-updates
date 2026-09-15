@@ -3,14 +3,14 @@
   <channel>
     <title>ForceIQ Shifts</title>
     <item>
-      <title>1.1.3</title>
-      <pubDate>Tue, 15 Sep 2026 17:02:20 -0400</pubDate>
-      <ns0:version>15</ns0:version>
-      <ns0:shortVersionString>1.1.3</ns0:shortVersionString>
+      <title>1.1.4</title>
+      <pubDate>Tue, 15 Sep 2026 18:46:31 -0400</pubDate>
+      <ns0:version>16</ns0:version>
+      <ns0:shortVersionString>1.1.4</ns0:shortVersionString>
       <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
       <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
-      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.3.zip" length="2709791" type="application/octet-stream" ns0:edSignature="mv63K0l26umR93n5ccQVZiXciQL2SbyEfo+OOWaJByOUZ0GwahDLz5a90bDvcj5iJAbMIOhhmZsVm+zKFjGeAg==" />
-      <description>The NHL and GOALS tabs explain an empty list instead of showing a blank panel, and name a daemon outage with a RETRY button; readable failure messages replace raw provider output; downloads keep their provider identity (fixes 'Unknown player'); NHL season summaries return real stats.</description>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.4.zip" length="2714737" type="application/octet-stream" ns0:edSignature="P5BYD2FkJJfGQLvE0tYgCnNHKSCVOUQNcGcKzR5zMahrYJVlIJMnza1tJ/O9rTZTQVPDXXztWuk6mIpEEFfHBw==" />
+      <description>The CLIENTS tab now says why the roster is empty (daemon unreachable vs no clients) with a RETRY button, and refills itself when the daemon comes back after a restart.</description>
     </item>
   </channel>
 </rss>
