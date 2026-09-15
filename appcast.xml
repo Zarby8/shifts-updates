@@ -1,15 +1,25 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>ForceIQ Shifts</title>
-        <item>
-            <title>1.1.1</title>
-            <pubDate>Mon, 07 Sep 2026 20:38:41 -0400</pubDate>
-            <sparkle:version>3</sparkle:version>
-            <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.1.zip" length="2606934" type="application/octet-stream" sparkle:edSignature="yw9Q7q6cK0YmAzyjQEB0WxakUlHCjUp2xw45IlCeq9IFrXprHCraPgzecrrGZo/vkzUjr8P02SDxeic/j6FxAA=="/>
-        </item>
-    </channel>
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ForceIQ Shifts</title>
+    <item>
+      <title>1.1.2</title>
+      <pubDate>Tue, 15 Sep 2026 16:42:44 -0400</pubDate>
+      <ns0:version>14</ns0:version>
+      <ns0:shortVersionString>1.1.2</ns0:shortVersionString>
+      <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
+      <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.2.zip" length="2709970" type="application/octet-stream" ns0:edSignature="OYgRc8n+EYLf3YFxGKZw3Z5b1nu0dziJLBfDr//SlcSPjttPnwVR8tfeAeNegwjg6VfCl38t2jxZbVcHA2EtCg==" />
+      <description>Readable failure messages instead of raw provider output; download identity restored for stream pulls (fixes 'Unknown player'); NHL and GOALS tabs no longer queue behind the serialized Ghost API; NHL season summaries return real stats; NHL panel explains an empty list and offers RETRY.</description>
+    </item>
+    <item>
+      <title>1.1.1</title>
+      <pubDate>Mon, 07 Sep 2026 20:38:41 -0400</pubDate>
+      <ns0:version>3</ns0:version>
+      <ns0:shortVersionString>1.1.1</ns0:shortVersionString>
+      <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
+      <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.1.zip" length="2606934" type="application/octet-stream" ns0:edSignature="yw9Q7q6cK0YmAzyjQEB0WxakUlHCjUp2xw45IlCeq9IFrXprHCraPgzecrrGZo/vkzUjr8P02SDxeic/j6FxAA==" />
+    </item>
+  </channel>
 </rss>
