@@ -3,14 +3,14 @@
   <channel>
     <title>ForceIQ Shifts</title>
     <item>
-      <title>1.1.4</title>
-      <pubDate>Tue, 15 Sep 2026 18:46:31 -0400</pubDate>
-      <ns0:version>16</ns0:version>
-      <ns0:shortVersionString>1.1.4</ns0:shortVersionString>
+      <title>1.1.5</title>
+      <pubDate>Sun, 20 Sep 2026 19:51:49 -0400</pubDate>
+      <ns0:version>17</ns0:version>
+      <ns0:shortVersionString>1.1.5</ns0:shortVersionString>
       <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
       <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
-      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.4.zip" length="2714737" type="application/octet-stream" ns0:edSignature="P5BYD2FkJJfGQLvE0tYgCnNHKSCVOUQNcGcKzR5zMahrYJVlIJMnza1tJ/O9rTZTQVPDXXztWuk6mIpEEFfHBw==" />
-      <description>The CLIENTS tab now says why the roster is empty (daemon unreachable vs no clients) with a RETRY button, and refills itself when the daemon comes back after a restart.</description>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.5.zip" length="2730157" type="application/octet-stream" ns0:edSignature="vU0mmcnMk6vH78KISWx7X9jnnCSnOtH+o7OwDSdYFDHMlyK/GBSy0z33mlNOk4Cf6WIMcu56EehvigImW9xsAg==" />
+      <description>Stop repeated download and delivery notifications when pipeline rows reappear. Preserve notification history per coach across app relaunches.</description>
     </item>
   </channel>
 </rss>
