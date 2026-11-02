@@ -3,14 +3,14 @@
   <channel>
     <title>ForceIQ Shifts</title>
     <item>
-      <title>1.1.5</title>
-      <pubDate>Sun, 20 Sep 2026 19:51:49 -0400</pubDate>
-      <ns0:version>17</ns0:version>
-      <ns0:shortVersionString>1.1.5</ns0:shortVersionString>
+      <title>1.1.6</title>
+      <pubDate>Mon, 02 Nov 2026 14:14:28 -0500</pubDate>
+      <ns0:version>18</ns0:version>
+      <ns0:shortVersionString>1.1.6</ns0:shortVersionString>
       <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
       <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
-      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.5.zip" length="2730157" type="application/octet-stream" ns0:edSignature="vU0mmcnMk6vH78KISWx7X9jnnCSnOtH+o7OwDSdYFDHMlyK/GBSy0z33mlNOk4Cf6WIMcu56EehvigImW9xsAg==" />
-      <description>Stop repeated download and delivery notifications when pipeline rows reappear. Preserve notification history per coach across app relaunches.</description>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.6.zip" length="2724132" type="application/octet-stream" ns0:edSignature="4e7ish4gsEHBE597oBWT/9Wqyfwa7tfmlwXo9loe/Ubf3HDGTfdCK/w3wI7HCKPls22zH52l+5mipSFMX20hCQ==" />
+      <description>New FILM ONLY button on each game: downloads the film to Downloads/ForceIQ Download Only with no Game Info, title slide or client automation.</description>
     </item>
   </channel>
 </rss>
