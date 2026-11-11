@@ -3,14 +3,14 @@
   <channel>
     <title>ForceIQ Shifts</title>
     <item>
-      <title>1.1.7</title>
-      <pubDate>Wed, 11 Nov 2026 11:10:44 -0500</pubDate>
-      <ns0:version>19</ns0:version>
-      <ns0:shortVersionString>1.1.7</ns0:shortVersionString>
+      <title>1.1.8</title>
+      <pubDate>Wed, 11 Nov 2026 11:20:52 -0500</pubDate>
+      <ns0:version>20</ns0:version>
+      <ns0:shortVersionString>1.1.8</ns0:shortVersionString>
       <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
       <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
-      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.7.zip" length="3352156" type="application/octet-stream" ns0:edSignature="vswh5YbZtBuOYFv/sdLCXB/8XsNgpFptP5AQ6nIwaS0PQj2tnaaZsdlJ6wWCAgNYwXqkkWOEgaMT31lDsxAaCQ==" />
-      <description>Fixes a crash on launch in 1.1.6 (the app quit immediately and showed no window).</description>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.8.zip" length="3352767" type="application/octet-stream" ns0:edSignature="RJOGU+//+2PJPsJSVmoWZncepbO/jAmThyiN5/6s33g5rBINdnZDXQQ7N+DWcp65YnV4S9YHm0ixPZU6LishDw==" />
+      <description>Fixes the roster showing NO CLIENTS / 0 after launch.</description>
     </item>
   </channel>
 </rss>
