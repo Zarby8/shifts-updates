@@ -3,14 +3,14 @@
   <channel>
     <title>ForceIQ Shifts</title>
     <item>
-      <title>1.1.6</title>
-      <pubDate>Mon, 02 Nov 2026 14:14:28 -0500</pubDate>
-      <ns0:version>18</ns0:version>
-      <ns0:shortVersionString>1.1.6</ns0:shortVersionString>
+      <title>1.1.7</title>
+      <pubDate>Wed, 11 Nov 2026 11:10:44 -0500</pubDate>
+      <ns0:version>19</ns0:version>
+      <ns0:shortVersionString>1.1.7</ns0:shortVersionString>
       <ns0:minimumSystemVersion>14.0</ns0:minimumSystemVersion>
       <ns0:hardwareRequirements>arm64</ns0:hardwareRequirements>
-      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.6.zip" length="2724132" type="application/octet-stream" ns0:edSignature="4e7ish4gsEHBE597oBWT/9Wqyfwa7tfmlwXo9loe/Ubf3HDGTfdCK/w3wI7HCKPls22zH52l+5mipSFMX20hCQ==" />
-      <description>New FILM ONLY button on each game: downloads the film to Downloads/ForceIQ Download Only with no Game Info, title slide or client automation.</description>
+      <enclosure url="https://zarby8.github.io/shifts-updates/releases/ForceIQShifts-1.1.7.zip" length="3352156" type="application/octet-stream" ns0:edSignature="vswh5YbZtBuOYFv/sdLCXB/8XsNgpFptP5AQ6nIwaS0PQj2tnaaZsdlJ6wWCAgNYwXqkkWOEgaMT31lDsxAaCQ==" />
+      <description>Fixes a crash on launch in 1.1.6 (the app quit immediately and showed no window).</description>
     </item>
   </channel>
 </rss>
